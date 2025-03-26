@@ -2,8 +2,8 @@
 
 My collection of wallpapers with [Rosepine](https://rosepinetheme.com) colorscheme.
 
-```diff
-- 🔴 CAUTION: NSFW included.
+```
+<span style="background-color: yellow;">🔴 CAUTION: NSFW included.</span>
 ```
 ## Preview
 ![After the apocalypse](afterapp.jpg)
