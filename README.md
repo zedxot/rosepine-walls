@@ -23,6 +23,16 @@ My collection of wallpapers with [Rosepine](https://rosepinetheme.com) colorsche
 ![helltaker](helltaker.png)
 **New Step**
 ![newstep](newstep.png)
+**Cairo**
+![Cairo](cairo.jpg)
+**Carpenter**
+![Carpenter](carpenter.png)
+**Cyberpunk Girl**
+![Cyberpunk Girl](cyberpunk_girl.jpg)
+**Devil Girl**
+![Devil Girl](devilgirl.png)
+**Fantasy Island**
+![Fantasy Island](fantasyisland.png)
 
 ## How to Download
 
